@@ -1,0 +1,5 @@
+courses=('Python Programming','RDBMS','Web Technology','Software Engg')
+electives=('Business Intelligence','Big data analytics')
+print('Number of courses opted by john is:',len(courses))
+print('Selected Courses by JOHN are:',courses)
+print('After selecting electives by john:',courses+electives)
